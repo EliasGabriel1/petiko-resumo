@@ -13,6 +13,16 @@ A aplicação foi construída utilizando Laravel no backend e Vue 3 no frontend,
 * manutenção facilitada
 * experiência moderna de desenvolvimento
 
+Além do desenvolvimento da aplicação, foram utilizadas ferramentas de Inteligência Artificial como apoio técnico durante o projeto, auxiliando em:
+
+* documentação técnica
+* refatoração de trechos específicos do código
+* revisão de estrutura
+* otimização de organização de componentes e serviços
+* apoio na criação e validação de Pull Requests (PRs)
+
+O uso de IA teve como objetivo aumentar a produtividade, melhorar a padronização do código e auxiliar na qualidade geral da aplicação, mantendo todas as decisões arquiteturais e implementações sob validação e revisão manual.
+
 ---
 
 # Arquitetura Geral
@@ -254,6 +264,8 @@ Estrutura preparada para:
 * mock de serviços externos
 * validação de regras de negócio
 
+Também foram realizadas validações de qualidade em Pull Requests, incluindo revisão de padrões de código, consistência arquitetural e apoio automatizado utilizando IA para análise de melhorias e possíveis ajustes.
+
 ---
 
 # Docker
@@ -271,8 +283,8 @@ Foi utilizada conteinerização com Docker para facilitar:
 
 O projeto também possui:
 
-* desenho arquitetural no Figma: https://www.figma.com/design/2UnGEXdmG02lkSFWNcznbC/petiko?m=auto&t=Gsp59VRq2QqQU0s4-1
-* vídeo demonstrando funcionamento completo: https://drive.google.com/file/d/1EBbZcX-nac47GPiuLS9Nx_iILyDxzcBJ/view?usp=sharing
+* desenho arquitetural no Figma: [https://www.figma.com/design/2UnGEXdmG02lkSFWNcznbC/petiko?m=auto&t=Gsp59VRq2QqQU0s4-1](https://www.figma.com/design/2UnGEXdmG02lkSFWNcznbC/petiko?m=auto&t=Gsp59VRq2QqQU0s4-1)
+* vídeo demonstrando funcionamento completo: [https://drive.google.com/file/d/1EBbZcX-nac47GPiuLS9Nx_iILyDxzcBJ/view?usp=sharing](https://drive.google.com/file/d/1EBbZcX-nac47GPiuLS9Nx_iILyDxzcBJ/view?usp=sharing)
 * documentação técnica
 * explicação das decisões arquiteturais
 
@@ -293,4 +305,4 @@ Ao final do desenvolvimento, o sistema apresentou:
 * estrutura escalável
 * preparação para futuras integrações e crescimento do sistema
 
-O projeto foi desenvolvido buscando aproximar a implementação de um cenário corporativo real, utilizando boas práticas modernas de desenvolvimento web.
+O projeto foi desenvolvido buscando aproximar a implementação de um cenário corporativo real, utilizando boas práticas modernas de desenvolvimento web, além do apoio de ferramentas de Inteligência Artificial para auxiliar processos de documentação, refatoração, validação de PRs e melhoria contínua da qualidade do código.
